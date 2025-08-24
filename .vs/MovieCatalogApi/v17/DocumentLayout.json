@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\dtos\\directordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\dtos\\directordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\dtos\\moviedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\dtos\\moviedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|d:\\wipro_training\\assignment-web api\\web api day2\\moviecatalogapi\\moviecatalogapi\\migrations\\20250823161934_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9D4252-4F45-42F8-99B9-2C14C04E3CEB}|MovieCatalogApi\\MovieCatalogApi.csproj|solutionrelative:moviecatalogapi\\migrations\\20250823161934_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250823161934_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Migrations\\20250823161934_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\Migrations\\20250823161934_InitialCreate.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Migrations\\20250823161934_InitialCreate.cs",
+              "RelativeToolTip": "MovieCatalogApi\\Migrations\\20250823161934_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:19:34.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectorsController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Controllers\\DirectorsController.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\Controllers\\DirectorsController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Controllers\\DirectorsController.cs",
+              "RelativeToolTip": "MovieCatalogApi\\Controllers\\DirectorsController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwHoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:12:55.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieCatalogApi\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:12:43.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DirectorDtos.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\DTOs\\DirectorDtos.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\DTOs\\DirectorDtos.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\DTOs\\DirectorDtos.cs",
+              "RelativeToolTip": "MovieCatalogApi\\DTOs\\DirectorDtos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:14:35.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDtos.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\DTOs\\MovieDtos.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\DTOs\\MovieDtos.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\DTOs\\MovieDtos.cs",
+              "RelativeToolTip": "MovieCatalogApi\\DTOs\\MovieDtos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:14:26.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MovieCatalogApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:13:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Program.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Program.cs",
+              "RelativeToolTip": "MovieCatalogApi\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:17:39.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\Models\\Director.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Models\\Director.cs",
+              "RelativeToolTip": "MovieCatalogApi\\Models\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:14:02.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\Models\\Movies.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\Models\\Movies.cs",
+              "RelativeToolTip": "MovieCatalogApi\\Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:13:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieCatalogApi\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-WEB API\\Web API day2\\MovieCatalogApi\\MovieCatalogApi\\appsettings.json",
+              "RelativeToolTip": "MovieCatalogApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T16:16:14.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
